@@ -1,15 +1,15 @@
 {
   "format": 1,
-  "commit": "4e9dfebe454e43fe0d2ae92c2f13018fb36dc262",
-  "generated": "2026-11-03T20:00:27+00:00",
+  "commit": "7e0babce29ec0226c06a821ec0e13c8f31c86022",
+  "generated": "2026-11-03T22:02:37+00:00",
   "files": {
     "soul-items.json": {
       "sha256": "F3B39D579C4414F8227136895E9A5C8CBDC6A9A39721F58FE29FDEB25047AB1A",
       "size": 46392
     },
     "mob-pets.json": {
-      "sha256": "13108B8D03ADCE315A273649C8EA21AD68DC8A1B02394791104E917D5DB39A0C",
-      "size": 279706
+      "sha256": "A5B78F2EFADE2ECE9148FB17B0AD2AA0E5A4EA3A454D0F733B7B51A740043895",
+      "size": 309986
     },
     "pet-sources.json": {
       "sha256": "68304DA62FE7ED655CE78F8E33C3181FC0B7DEF7DD9B9FC8405E65D8067D4936",
