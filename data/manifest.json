@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "commit": "7e0babce29ec0226c06a821ec0e13c8f31c86022",
-  "generated": "2026-11-03T22:02:37+00:00",
+  "commit": "75cd050d23681066e6b0256de4b4884efbd587b2",
+  "generated": "2026-11-07T09:39:13+00:00",
   "files": {
     "soul-items.json": {
       "sha256": "F3B39D579C4414F8227136895E9A5C8CBDC6A9A39721F58FE29FDEB25047AB1A",
@@ -16,8 +16,8 @@
       "size": 270473
     },
     "zone-templates.json": {
-      "sha256": "0B718145078197313143FB925440F01A7A1CFCEEAAE1836480178B79033B178F",
-      "size": 41412
+      "sha256": "2AB2B2C5B415C6E3BD5F40B8464A7C09ED0684B10962395628A75B092238E58C",
+      "size": 41423
     },
     "pets.catalog.json": {
       "sha256": "C0B2E5B532FBB33F04574B0433406127C87E5D7EDB192B0D978029F042F7235B",
