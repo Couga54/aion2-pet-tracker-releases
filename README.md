@@ -13,12 +13,15 @@ Collecting all 200 pets in Aion 2 means farming souls from the right mobs. The g
 
 - **Your whole collection fills in by itself.** When you enter your character, the tracker reads every pet's level and soul count. No typing or screenshots.
 - **Souls are counted live.** Every soul you pick up is added to the right pet at once.
-- **Overlay on top of the game.** It shows your favorite pets, or the pets nearby whose souls you still need, with a compass arrow and distance to the nearest mob that drops each soul.
-- **Minimap of soul mobs.** It shows spawn points and live mobs that drop souls of the pets you track, colored by pet category (Cogni, Fera, Natura, Varian).
+- **Overlay on top of the game.** It shows your favorite pets, or the pets nearby whose souls you still need, with a compass arrow and distance to the nearest mob that drops each soul, and the best farming spot nearby.
+- **Minimap of soul mobs.** It shows spawn points and live mobs that drop souls of the pets you track over the zone map, colored by pet category (Cogni, Fera, Natura, Varian). Spawn points the site doesn't have yet are picked up in game.
+- **Where to get.** For any pet: the zone map with its soul mobs, plus chests, trials, merchants and achievements.
+- **Shop and dungeon pets marked.** Pets you can only get from chests and Black Cloud Merchants, or only from dungeon bosses, are marked and filtered; the overlay lists merchant pets you still need until the stock changes.
+- **History.** Souls per day and the pets you brought to max level.
 - **Level-up and max-level animations, plus a log of picked-up souls.**
 - **Lock the overlay and minimap** so clicks pass through to the game. Press **Ctrl+Shift+L** right from the game.
-- **Table of all pets** with filters by category, level and favorites, and the souls each one still needs.
-- **Updates itself.** A new version installs with one click and keeps your data.
+- **Table of all pets** with filters by category, level, favorites and where the pet comes from, and the souls each one still needs.
+- **Updates itself.** A new version installs with one click and keeps your data; new mob locations arrive without reinstalling.
 - **English and Russian interface.**
 
 ## Download and install
@@ -48,6 +51,8 @@ Game rules may prohibit third-party traffic analyzers. Use the tracker at your o
 
 **Where is my data?** In `%AppData%\Aion2PetTracker`. Updates keep it.
 
+**The zone map under the minimap is black.** Update the tracker to 0.9.5 or newer. If it is still black, send the log (see below).
+
 **Something doesn't work.** Click **Save for support** in the tracker. It saves a zip with the log and settings to your desktop. Then [open an issue](https://github.com/Couga54/aion2-pet-tracker-releases/issues) and attach it.
 
 This repository hosts the installers and release notes only; the source code is private.
@@ -64,12 +69,15 @@ This repository hosts the installers and release notes only; the source code is 
 
 - **Коллекция заполняется сама.** При входе на персонажа трекер узнаёт уровень и души каждого питомца. Ничего вводить и сканировать не нужно.
 - **Души считаются на ходу.** Каждая подобранная душа сразу добавляется нужному питомцу.
-- **Оверлей поверх игры.** Показывает избранных питомцев или питомцев поблизости, с которых ещё нужна душа, со стрелкой-компасом и расстоянием до ближайшего моба.
-- **Мини-карта мобов с душами.** На ней точки появления и живые мобы, с которых падают души отслеживаемых питомцев, цветом категории (разумные, дикие, природные, мутанты).
+- **Оверлей поверх игры.** Показывает избранных питомцев или питомцев поблизости, с которых ещё нужна душа, со стрелкой-компасом, расстоянием до ближайшего моба и лучшим местом для фарма рядом.
+- **Мини-карта мобов с душами.** На ней поверх карты зоны точки появления и живые мобы, с которых падают души отслеживаемых питомцев, цветом категории (разумные, дикие, природные, мутанты). Точки, которых ещё нет на сайте, трекер находит в игре сам.
+- **Где добыть.** Для любого питомца: карта зоны с его мобами, а также сундуки, испытания, торговцы и достижения.
+- **Отметки питомцев из магазина и подземелий.** Питомцы только из сундуков и у торговцев черного облака или только с боссов подземелий отмечены и выбираются фильтром; оверлей показывает нужных вам питомцев у торговцев до смены товара.
+- **История.** Души по дням и питомцы, доведённые до максимального уровня.
 - **Анимация нового и максимального уровня, журнал подобранных душ.**
 - **Закрепление оверлея и мини-карты:** клики проходят в игру. **Ctrl+Shift+L** прямо из игры.
-- **Таблица всех питомцев:** фильтры по категории, уровню и избранному, сколько душ ещё нужно.
-- **Обновляется сам:** новая версия ставится в один клик, данные сохраняются.
+- **Таблица всех питомцев:** фильтры по категории, уровню, избранному и источнику питомца, сколько душ ещё нужно.
+- **Обновляется сам:** новая версия ставится в один клик, данные сохраняются; новые места мобов приходят без переустановки.
 - **Интерфейс на русском и английском.**
 
 ### Установка
