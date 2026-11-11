@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "commit": "67fe76cb17df5f2c93c96b8f4c0a35e0c6f5f4e1",
-  "generated": "2026-11-09T20:55:51+00:00",
+  "commit": "dfcae3213894e78f1b7d57077b5d2e8059a23055",
+  "generated": "2026-11-11T20:59:35+00:00",
   "files": {
     "soul-items.json": {
       "sha256": "F3B39D579C4414F8227136895E9A5C8CBDC6A9A39721F58FE29FDEB25047AB1A",
@@ -12,8 +12,8 @@
       "size": 312879
     },
     "pet-sources.json": {
-      "sha256": "68304DA62FE7ED655CE78F8E33C3181FC0B7DEF7DD9B9FC8405E65D8067D4936",
-      "size": 270473
+      "sha256": "BDE667F9E55092623A668F4BC92D14004E9169209549552472DCB4921CB2013E",
+      "size": 271499
     },
     "zone-templates.json": {
       "sha256": "1146A442B602285F15394E6B75D94E2290DEF19AA5FB0EFD0B0FD22F297C7170",
